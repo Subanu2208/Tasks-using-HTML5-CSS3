@@ -1,0 +1,326 @@
+
+
+.row{
+    width: 100%;
+    background-color: gray;
+}
+.col1{
+   width: 100%;
+   height:55px;
+   background-color: #3b4a54;
+   color: white;
+   position: fixed;
+}
+h5:hover{
+    opacity:0.5;
+    color:white;
+
+}
+h5.a{
+    color: white;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    font-size: 15px;
+    cursor: pointer;
+}
+h5.b{
+    color: white;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    font-size: 15px;
+    cursor:pointer;
+}
+    h5.c{
+        color:#dddddd ;
+        float: left;
+        margin-top: 20px;
+        margin-left: 20px;
+        font-family: sans-serif;
+        font-size: 15px;
+        opacity: 0.5;
+        cursor:pointer;
+    }
+    .button.buttona:hover{
+        background-color: green;
+        color: white;
+        
+    }
+    .buttona
+    {
+        border: 2px solid green;
+        color: green;
+        border-radius: 10%;
+        width: 5%;
+        text-align: center;
+        background-color: #3b4a54 ;
+        height: 35px;
+        float: right;
+        margin-top: 10px;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+    input{
+        border: 1px solid white;
+        background-color: white;
+        color: search;
+        float: right;
+        margin-top: 10px;
+        margin-right:10px;
+        width: 15%;
+        height: 32px;
+        text-align: left;
+        border-radius: 5px;
+    }
+    .col2{
+        width: 100%;
+        height: 400px;
+        margin-top: -25px;
+         background-color: gray; 
+    }
+    h1.a{
+        padding-top: 150px;
+      margin-left: 200px;
+        font-family:sans-serif;
+        color: white;
+    }
+    p.a{
+       margin-left: 200px; 
+       margin-top: 10px;
+       font-size: 19px;
+       font-family: sans-serif;
+       color: white;
+       line-height: 1.75rem;
+    }
+    button.buttonb:hover{
+      background-color: blue;  
+      cursor: pointer;
+      border: 1px solidblue;
+    }
+.buttonb{
+    border: 1px solid #0d6efd;
+    color: white;
+    background-color: #0d6efd;
+    width: 10%;
+    height: 45px;
+    margin-left: 200px;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    font-size: 17px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.dot {
+    height: 150px;
+    width: 150px;
+    background-color:gray;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  span.a{
+    margin-top: 70px;
+    margin-left: 250px;
+  }
+  h1.b{
+    margin-top: 5px;
+    margin-left: 260px;
+    color: gray;
+    font-family: sans-serif;
+    float: left;
+  }
+  p.b{
+    float: left;
+    margin-left: 200px;
+    color: gray;
+    font-family: sans-serif;
+    margin-top:-5px;
+    font-size: 15px;
+    line-height: 1.5rem;
+  }
+  p.c{
+    float: left;
+    color: gray;
+    font-family: sans-serif;
+    margin-top: -5px;
+    font-size: 15px;
+    line-height: 1.5rem;
+    margin-left: 50px;
+  }
+  p.d{
+    float: left;
+    color: gray;
+    font-family: sans-serif;
+    margin-top: -5px;
+    font-size: 15px;
+    line-height: 1.5rem;
+    margin-left: 50px;
+  }
+  button.buttonc:hover{
+    opacity: 0.2px;
+    color: white ;
+    border: 1px solid white;
+    cursor: pointer;
+  }
+  .buttonc{
+    background-color: gray;
+    border: 1px solid gray;
+    width: 120px;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+    margin-top:220px ;
+    margin-left: -220px;
+    font-family: sans-serif;
+    font-size: 15px;
+  }
+  button.buttond:hover{
+    opacity: 0.2px;
+    color: white ;
+    border: 1px solid white;
+    cursor: pointer;
+  }
+  .buttond{
+    background-color: gray;
+    border: 1px solid gray;
+    width: 120px;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+    margin-top:-55px;
+    margin-right: 590px;
+    float: right;
+    font-family: sans-serif;
+    font-size: 15px;
+  }
+  button.buttone:hover{
+    opacity: 0.2px;
+    color: white ;
+    border: 1px solid white;
+    cursor: pointer;
+  }
+  .buttone{
+    background-color: gray;
+    border: 1px solid gray;
+    width: 120px;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+    margin-top:-55px;
+    margin-left: 260px;
+    float: left;
+    font-family: sans-serif;
+    font-size: 15px;
+  }
+
+  h1.c{
+    color: black;
+    opacity: 0.8;
+    font-family: sans-serif;
+    margin-left: 70px;
+    margin-top: 250px;
+  }
+  span.b{
+    opacity: 0.6;
+  }
+  p.e{
+    margin-left: 70px;
+    line-height: 1.5rem;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: black;
+    opacity: 0.5;
+    margin-top: -15px;
+}
+  
+  .carda{
+    height: 500px;
+    width: 500px;
+    background-color: rgba(128, 128, 128, 0.247);
+    float: right;
+    margin-top: -340px;
+    margin-right: 150px;
+    text-align:center ;
+  }
+  h1.d{
+    color: gray;
+    opacity: 0.5;
+    margin-top: 225px;
+    
+  }
+h1.e{
+  font-family: sans-serif;
+  margin-top: 500px;
+  margin-left:100px ;
+  
+}
+h1.g{
+  font-family:sans-serif ;
+  margin-top: 550px;
+  margin-left: -500px;
+  float: left;
+}
+
+.cardb{
+  height: 500px;
+  width: 500px;
+  background-color: rgba(128, 128, 128, 0.247);
+  float: right;
+  margin-top: 320px;
+  margin-right: 150px;
+  text-align: center;
+}
+.cardc{
+  height: 500px;
+  width: 500px;
+  background-color: rgba(128, 128, 128, 0.247);
+  float: left;
+  text-align: center;
+  margin-top: 270px;
+  margin-left: 100px;
+}
+h1.f{
+  color: black;
+    opacity: 0.8;
+    font-family: sans-serif;
+    float:right ;
+    margin-right:260px ;
+margin-top: 250px;
+  
+}
+p.f{
+  
+  line-height: 1.5rem;
+  font-family: sans-serif;
+  font-size: 15px;
+  color: black;
+  opacity: 0.5;
+  margin-right: 200px;
+  margin-top: -13px;
+ float: right;
+
+}
+p.g{
+  margin-left: -504px;
+  line-height: 1.5rem;
+  font-family: sans-serif;
+  font-size: 15px;
+  color: black;
+  opacity: 0.5;
+  margin-top: 610px;
+  float: left;
+}
+h1.g{
+  color: black;
+    opacity: 0.8;
+    font-family: sans-serif;
+    float:left ;
+    margin-left: -504px;
+    
+margin-top: 525px;
+}
+
+
+    

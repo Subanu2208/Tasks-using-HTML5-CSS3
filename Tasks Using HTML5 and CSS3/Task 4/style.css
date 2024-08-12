@@ -1,0 +1,214 @@
+.row{
+    width: 100%;
+}
+.col1{
+    width:100%;
+    padding: 0px;
+    height: 80px;
+    background-color: #2c3e50;
+    float: left;
+    color: white;
+    text-align: start;
+}
+img.a{
+    width: 150px;
+    height:150px;
+    margin-top: 50px;
+}
+.col2{
+    width:100%;
+    height:400px;
+    padding:0px;
+    background-color:#1abc9c;
+    float: left;
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+
+}
+img.b{
+   max-width: 20rem;
+   position: relative;
+   display: block;
+   border-radius: 0.5rem;
+   overflow: hidden;
+   cursor: pointer;
+   margin-left: 7%;
+    
+   float: left;
+}
+
+img.c{
+    max-width: 20rem;
+    position: relative;
+    display: block;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    cursor: pointer;
+    margin-left: 7%;
+    margin-top: 5%;
+    float: left;
+ }
+ img.b:hover{
+    opacity: 0.5;
+ }
+ img.c:hover{
+    opacity: 0.5;
+ }
+ 
+
+
+.col3{
+    width:100%;
+    height:700px;
+
+    background-color:white;
+    float: left;
+    color: white;
+    text-align: center;
+}
+.col4{
+    width:100%;
+    height:350px;
+    background-color:#1abc9c;
+    float: left;
+    color: white;
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+    font-family: sans-serif;
+}
+h2{
+    color: white;
+    text-align: center;
+    line-height: 0.1;
+}
+h2.a{
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+margin-top: 40px;
+}
+h2.b{
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+    line-height: 0.5;
+}
+h2.c{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+h2.d{
+    color: white;
+    text-align: center;
+}
+   
+h4{
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    line-height: 2.4;
+}
+h2.e{
+    color: white;
+    text-align: start;
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-top: 40px;
+    float: left;
+}
+h2.f{
+    color: white;
+    text-align: right;
+    font-family: sans-serif;
+    margin-right: 100px;
+    margin-top:40px;
+    float: right;
+    
+    
+}
+h2.g{
+    color: white;
+    text-align: right;
+    font-family: sans-serif;
+    margin-right: 50px;
+    margin-top:40px;
+    float: right;  
+}
+h2.h{
+    color: white;
+    text-align: right;
+    font-family: sans-serif;
+    margin-right: 50px;
+    margin-top:40px;
+    float: right;  
+}
+h2.e:hover{
+    color:#1abc9c ;
+    cursor: pointer;
+}
+h2.f:hover{
+    color:#1abc9c ;
+    cursor: pointer;}
+    h2.g:hover{
+        color:#1abc9c ;
+        cursor: pointer;}
+        h2.h:hover{
+            color:#1abc9c ;
+            cursor: pointer;}
+p.a{
+    column-count: 1;
+    margin-left: 350px;
+    float: left;}
+p.b{
+    column-count: 1;
+    margin-left: 25px;
+    float: left;
+
+}
+    
+
+.button:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+.buttona{
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 50px;
+    font-size: 1rem;
+    background-color:#1abc9c;
+    color: white;}
+
+    .divider-custom {
+        margin: 1.25rem 0 1.5rem;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .divider-custom.divider-light .divider-custom-icon {
+        color: #fff;
+    }
+    .divider-custom .divider-custom-icon {
+        color: #2c3e50;
+        font-size: 2rem;
+    }
+    .divider-custom .divider-custom-line {
+        width: 100%;
+        max-width: 7rem;
+        height: 0.25rem;
+        background-color: white;
+        border-radius: 1rem;
+        border-color: #2c3e50}

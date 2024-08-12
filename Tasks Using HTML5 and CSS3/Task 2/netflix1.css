@@ -1,0 +1,104 @@
+body{
+    margin: 0px;
+   overflow-x: hidden;
+}
+
+@media only screen and (max-width:785px) {
+    .box{
+        display: flex;
+        flex-direction: column-reverse;
+
+    }
+    
+}
+@media only screen and (max-width:400px){
+    .getstarted{
+        width: 200px;
+        margin-left: 50px;
+    }
+}
+@media only screen and (max-width:785px){
+    .par1-1{
+        text-align: center;
+    }
+}
+   
+
+.btn2{
+    width: 100px;
+    height: 40px;
+    border: none;
+}
+.btn2:hover{
+    border: 1px solid white;
+}
+.btn3{
+    width: 90px;
+    height: 40px;
+    border: none;
+}
+.btn3:hover{
+    border: 1px solid white;
+}
+button.btn1:hover{
+    opacity: 0.8;
+    cursor: pointer;
+    border: 1px solid white;
+}
+.btn{
+   border: none;
+   width: 80%;
+   height: 70px;
+   border-radius: 0%;   
+}
+.btn:hover{
+    border: 1px solid white;
+}
+.input{
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: 1px solid white;
+    width: 100%;   
+}
+
+.input::placeholder{
+color: gray;
+}
+.email{
+    fill: currentcolor;
+    font-size: 1rem;
+    font-weight: 400;
+    min-width: 12.5rem;
+    padding: 0px;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    display: inline-flex;
+}
+img{
+    width: 308px;
+    height: 350px;
+}
+li{
+    list-style-type:none ;
+    font-size: 15px;   
+}
+.list{
+    padding-left: 41px;
+}
+button.button{
+    border: none;
+    margin-top: 35px;
+    width: 100px;    
+}
+button.button:hover{
+    border: 1px solid white;
+}
+img.logo{
+    width: 150px;
+    height: 80px;   
+ }
+.email1{
+    text-align: center;
+}
+
